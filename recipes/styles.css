@@ -33,3 +33,18 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+button {
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.tryme {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.notryme {
+    background-color: yellow;
+    color: #000000;
+}
